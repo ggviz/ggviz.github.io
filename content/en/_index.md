@@ -34,12 +34,16 @@ GGViz is based on Wilkinson's [Grammar of
 Graphics](https://link.springer.com/book/10.1007/0-387-28695-0), like
 the popular
 [ggplot2](https://cloud.r-project.org/web/packages/ggplot2/) in R, and
-[plotnine](https://plotnine.readthedocs.io) in python.  But unlike
+[plotnine](https://plotnine.readthedocs.io) in python. But unlike
 those open-source tools, which are limited to producing static
-graphics using a programmatic interface, GGViz will provide an easy to
-use point and click interface, able to produce advanced interactive
-graphics, similar to our open-source prototype,
-[animint2](https://github.com/tdhock/animint2).
+graphics using a programmatic interface, GGViz will provide an
+easy-to-use, point-and-click interface, and will produce
+advanced interactive graphics.
+GGViz is a commercial-scale re-write of our open-source prototype,
+[animint2](https://github.com/tdhock/animint2), which we described in
+our peer-reviewed research paper, [Extending ggplot2 for Linked and
+Animated Web Graphics](https://doi.org/10.1080/10618600.2018.1513367),
+published in Journal of Computational and Graphical Statistics (2019).
 
 ### More flexible and interactive than commercial software
 
@@ -51,5 +55,5 @@ of graphics. To see the variety of different designs which are
 possible, check out the
 [animint-gallery](https://rcdata.nau.edu/genomic-ml/animint-gallery/),
 which contains 50+ advanced examples which were produced using our
-open-source prototype of GGViz,
+open-source prototype,
 [animint2](https://github.com/tdhock/animint2).

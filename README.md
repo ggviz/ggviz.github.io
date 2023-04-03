@@ -1,3 +1,5 @@
-# ggviz.github.io
+Source code for
 
-https://themes.gohugo.io/themes/gohugo-theme-ananke/
+https://ggviz.com
+
+Thanks to https://themes.gohugo.io/themes/gohugo-theme-ananke/

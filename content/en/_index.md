@@ -53,7 +53,9 @@ multi-panel display. In contrast, GGViz users can define a much larger
 variety of data visualizations, using our powerful interactive grammar
 of graphics. To see the variety of different designs which are
 possible, check out the
-[animint-gallery](https://rcdata.nau.edu/genomic-ml/animint-gallery/),
-which contains 50+ advanced examples which were produced using our
+[animint-gallery](https://rcdata.nau.edu/genomic-ml/animint-gallery/)
+and
+[animint2 gallery](https://animint.github.io/gallery/),
+which contain 50+ advanced examples which were produced using our
 open-source prototype,
 [animint2](https://github.com/tdhock/animint2).
